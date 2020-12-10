@@ -4,13 +4,16 @@
 <meta charset="UTF-8"/>
 <title> --- Vamo que vamo! --- </title>
 </head>
-<body>
+<body bgcolor="f5f5dc"> 
 <table>
 <thead>
 <tr>
 <th><img src="meloni1.jpg" alt="Mãe, eu to na Globo!" title="Meloni" /></th>
 <th><h1>Mãe, eu to na Globo!</h1>
-<h1>=]~</h1></th>
+<h2>=]~</h2></th>
+</tr>
+</tfoot>
+</table>
 </body>
 </html>
 
