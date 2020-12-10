@@ -5,6 +5,7 @@
 <title> --- Vamo que vamo! --- </title>
 </head>
 <body bgcolor="f5f5dc"> 
+<font face="Georgia"> Georgia </font> <br />
 <table>
 <thead>
 <tr>
